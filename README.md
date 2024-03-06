@@ -7,7 +7,6 @@ Sterowanie:
 - Q - wyjście z zapisaniem stanu gry
 - SPACE - przywrócenie stanu gry po włączeniu gry
 
-## Diagram ERD
 ![Snake](https://github.com/zywczak/Snake/blob/main/Snake.png)
 
 ## Autorzy
