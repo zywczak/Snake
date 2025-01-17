@@ -1,13 +1,10 @@
 # Snake
-Gra Snake z użyciem Pythona ze wzorcami projektowymi strategii, fabryki, memento, singletonem i podziałem na MVC
+A Snake game implemented in Python, utilizing design patterns such as strategy, factory, memento, singleton, and an MVC architecture.
 
 ## Snake
-Sterowanie:
-- strzałki
-- Q - wyjście z zapisaniem stanu gry
-- SPACE - przywrócenie stanu gry po włączeniu gry
+Controls:
+- Arrow keys
+- Q - Exit the game and save its state
+- SPACE - Restore the saved game state after starting the game
 
 ![Snake](https://github.com/zywczak/Snake/blob/main/Snake.png)
-
-## Autorzy
-Piotr Żywczak
