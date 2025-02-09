@@ -1,7 +1,7 @@
-from RandomFoodStrategy import RandomFoodStrategy
-from SnakeController import SnakeController
-from SnakeModel import SnakeModel
-from SnakeView import SnakeView
+from strategy.RandomFoodStrategy import RandomFoodStrategy
+from snake.SnakeController import SnakeController
+from snake.SnakeModel import SnakeModel
+from snake.SnakeView import SnakeView
 
 
 if __name__ == "__main__":
